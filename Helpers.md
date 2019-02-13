@@ -1,5 +1,27 @@
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+## 20 Feb - Spreadsheet and ORefine
+* Jen Daub
+* Ed Wallace
+* Giacomo Peru
+*
+*
+
+## 21 Feb - R1
+* Ed Wallace
+* Giacomo Peru
+*
+*
+*
+
+## 27 Feb - R2
+* Ed Wallace
+*
+*
+*
+*
+
+## 28 Feb - R3
+* Ed Wallace
+*
+*
+*
+*
