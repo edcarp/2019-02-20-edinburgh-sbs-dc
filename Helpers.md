@@ -1,27 +1,27 @@
 ## 20 Feb - Spreadsheet and ORefine
 * Jen Daub
-* Ed Wallace
+* Edward Wallace
 * Giacomo Peru
 *
 *
 
 ## 21 Feb - R1
-* Ed Wallace
+* Edward Wallace
 * Giacomo Peru
 * Rosey Bayne
 * Lora Boteva
 *
 
 ## 27 Feb - R2
-* Ed Wallace
+* Edward Wallace
 * Rosey Bayne
 * Lora Boteva
-*
+* Sam Haynes
 *
 
 ## 28 Feb - R3
-* Ed Wallace
+* Edward Wallace
 * Rosey Bayne
 * Lora Boteva
-*
+* Sam Haynes
 *
